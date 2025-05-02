@@ -1,0 +1,64 @@
+{
+    "profile": {
+        "name": "Shougly",
+        "bio": "Pengembang web yang memiliki minat besar dalam dunia Pengembangan Perangkat Lunak dan teknologi secara umum, selalu bersemangat untuk menemukan inovasi terbaru serta menerapkan solusi kreatif untuk tantangan digital.",
+        "image": "https://files.catbox.moe/4lzeyn.jpg"
+    },
+    "links": [
+        {
+            "title": "Instagram",
+            "url": "https://instagram.com/archanyuri",
+            "icon": "fab fa-instagram"
+        },
+        {
+            "title": "Twitter",
+            "url": "https://twitter.com/archanyuriii",
+            "icon": "fab fa-twitter"
+        },
+        {
+            "title": "YouTube",
+            "url": "https://youtube.com/archanyuri2.0",
+            "icon": "fab fa-youtube"
+        },
+        {
+            "title": "Website",
+            "url": "https://bio-shougly.netlify.app",
+            "icon": "fas fa-globe"
+        },
+        {
+            "title": "TikTok",
+            "url": "https://tiktok.com/@archanyuri",
+            "icon": "fab fa-tiktok"
+        },
+        {
+            "title": "Pinterest",
+            "url": "https://pinterest.com/archanyurii",
+            "icon": "fab fa-pinterest"
+        },
+        {
+            "title": "GitHub",
+            "url": "https://github.com/Shouglyy",
+            "icon": "fab fa-github"
+        },
+        {
+            "title": "Whatsapp Channel",
+            "url": "https://whatsapp.com/channel/0029VamDkVL0VycItMxoB40F",
+            "icon": "fab fa-Whatsapp"
+        }
+    ],
+    "music": {
+        "title": "Mangu",
+        "artist": "Fourtwnty",
+        "albumArt": "https://files.catbox.moe/4lzeyn.jpg",
+        "audioFile": "https://files.catbox.moe/hfbiai.mp4", 
+        "duration": 25,
+        "timeSync": [
+            { "time": 0, "text": "Kau disana\nAku disebelahmu" },
+            { "time": 5, "text": "Cerita Kita\nSulit dicerna" },
+            { "time": 10, "text": "Tak lagi sama\nCara berdo'a" },
+            { "time": 15, "text": "Cerita kita\nSulit dicerna" },
+            { "time": 20, "text": "Siapa yang tahu?\nSiapa yang mau?" },
+            { "time": 25, "text": "Kau disana\n(Aku diseberangmu" }
+        ]
+    }
+}
